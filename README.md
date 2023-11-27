@@ -19,4 +19,5 @@ Educational Purposes: This tool is intended for educational purposes and should 
 Python3.
 
 To install all the required libraries, 
+
 ```pip install -r requirements.txt```

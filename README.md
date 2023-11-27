@@ -20,4 +20,6 @@ Python3.
 
 To install all the required libraries, 
 
-```pip install -r requirements.txt```
+```
+python3 -m pip install -r requirements.txt
+```

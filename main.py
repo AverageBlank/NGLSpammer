@@ -100,4 +100,4 @@ def spammer(link=None, number=None):
 
 if __name__ == "__main__":
     system("clear" if OSNAME == "posix" else "cls")
-    spammer("indusrumors2", 10)
+    spammer()
